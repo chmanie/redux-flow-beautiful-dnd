@@ -1,0 +1,17 @@
+{
+  "name": "redux-beautiful-dnd",
+  "version": "1.0.0",
+  "description": "Repository to illustrate conflicts between flow types of redux and react-beautiful-dnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow check"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-beautiful-dnd": "^8.0.5"
+  },
+  "devDependencies": {
+    "flow-bin": "0.75.0"
+  }
+}
